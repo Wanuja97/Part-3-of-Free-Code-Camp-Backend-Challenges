@@ -7,7 +7,6 @@ let Person;
 const createAndSavePerson = (done) => {
   done(null /*, data*/);
 };
-khkjhkj
 const createManyPeople = (arrayOfPeople, done) => {
   done(null /*, data*/);
 };
